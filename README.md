@@ -1,3 +1,3 @@
-# Tic-Tac-Toe
+# Games
 
 Tic-Tac-Toe game using c++
